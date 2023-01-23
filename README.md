@@ -1,4 +1,4 @@
-![Front-End Developer](https://pbs.twimg.com/profile_banners/1535296300249325569/1669125988/600x200)
+![Front-End Developer]()
 
 ### Hi there 👋, I'm Titu Mollick
 #### Front-End Developer
