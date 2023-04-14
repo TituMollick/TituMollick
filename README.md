@@ -10,7 +10,7 @@ Furthermore, I have been working in this sector for most recent years. I want to
 
 Skills:  HTML / CSS/ JS /
 
-- 🔭 I’m currently working on Local Market & Fiverr  
+- 🔭 I’m currently working on Local Market, Freelancer, Fiverr & KWORK 
 - 🌱 I’m currently learning JavaScript & PHP 
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with some coding language friends 
